@@ -2,7 +2,7 @@
 
 Sumeru Akademiya API is a simple Express project using Prisma, providing endpoints to manage students, darshans (faculty) and users.
 
-## Problem 🧐
+## Problem 🧐❓
 
 The Sumeru Akademiya case problem involves managing student data for an academy. The API provides CRUD operations for student entities. Refer to the API documentation for detailed information on each endpoint and their use cases.
 
