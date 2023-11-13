@@ -51,7 +51,9 @@ The Sumeru Akademiya case problem involves managing student data for an academy.
 
 ```npx prisma migrate dev```
 
-5. Start the server
+5. Don't forget to remove the `.example` on `.env` file
+
+6. Start the server
    `npm run dev`
 
 ## Configuration 📭
