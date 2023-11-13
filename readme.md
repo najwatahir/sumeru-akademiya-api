@@ -84,3 +84,7 @@ Feel free to contribute by opening issues or creating pull requests. Follow the 
 ## License 🔖
 
 Make sure to replace placeholders like `yourusername`, `username:password@localhost:5432/sumeru_akademiya`, and `"your_jwt_secret_key"` with your actual details.
+
+## API documentation 📓
+
+visit this link to see the documentation on postman: https://documenter.getpostman.com/view/29807114/2s9YXk52Ug
