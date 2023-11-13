@@ -37,7 +37,7 @@ The Sumeru Akademiya case problem involves managing student data for an academy.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sumeru-akademiya-api.git
+   git clone https://github.com/najwatahir/sumeru-akademiya-api.git
    ```
 
 2. Navigate to project directory
