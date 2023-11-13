@@ -49,9 +49,7 @@ The Sumeru Akademiya case problem involves managing student data for an academy.
 
 4. Run Database migrations
 
-```npx prisma migrate dev
-
-```
+```npx prisma migrate dev```
 
 5. Start the server
    `npm run dev`
