@@ -88,13 +88,6 @@ class UserController {
           }),
         });
       }
-
-      // Generate JWT token
-      //   const token = jwt.sign(
-      //     { id: user.id, username: user.username, role: user.role }
-      // "your-secret-key",
-      // { expiresIn: "12h" }
-      //   );
     } catch (error) {
       console.error("Error during login:", error);
       res.status(500).json({ error: "Internal server error" });
